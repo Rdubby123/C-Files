@@ -1,6 +1,3 @@
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "rat.h"
@@ -42,9 +39,7 @@ printf("r1 / r2 = %s\n",toString((divide(r1,r2))));
 }
 }
 
-
-
-// tests below
+// unity tests below
 
 /*
 
