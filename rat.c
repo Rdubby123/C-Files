@@ -1,11 +1,10 @@
+// Ryan DuBrueler and Shreyas Harish
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
 
 #include "rat.h"
-
-// Project #2 EGRE-246 
-// Ryan DuBrueler and Shreyas Harish
 
 // Function to create a rational number
 rat createRat (int numerator, int denominator)
